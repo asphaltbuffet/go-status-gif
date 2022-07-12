@@ -15,7 +15,6 @@ archives:
     - goos: windows
       format: zip
   files:
-  - src: .go-status-gif
   - src: README*
     dst: docs
   - src: LICENSE*
